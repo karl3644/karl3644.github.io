@@ -1,0 +1,9 @@
+* {
+    border: 1px black solid;
+}
+
+#karlPic {
+    width: 30%;
+    height: auto;
+    border-radius: 50%;
+}
