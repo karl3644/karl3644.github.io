@@ -1,33 +1,32 @@
 * {
-    /* border: 1px black solid; */
-    text-align: center;
-    font-family: 'Ubuntu', sans-serif;
-    color: #3c3c3c;
-    
+  /* border: 1px black solid; */
+  text-align: center;
+  font-family: "Ubuntu", sans-serif;
+  color: #3c3c3c;
 }
 
 body {
-    background-color: #d6e3f8;
+  background-color: #e7f0ff;
 }
 
 #karlPic {
-    width: 30%;
-    height: auto;
-    border-radius: 50%;
-    max-width: 450px;
-    min-width: 150px;
+  width: 30%;
+  height: auto;
+  border-radius: 50%;
+  max-width: 450px;
+  min-width: 150px;
 }
 
 ul {
-    list-style-type: none;
-    padding: 0;
+  list-style-type: none;
+  padding: 0;
 }
 
 li {
-    display: inline;
-    padding: 2px;
+  display: inline;
+  padding: 2px;
 }
 
 footer {
-    margin: 10px;
+  margin: 10px;
 }
